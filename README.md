@@ -13,9 +13,10 @@ The idea came from when I played the "Professor Oak Challange" in Pokémon Black
 * Make a mockup for the website.
 * Create basic layout for the website.
 * Create a database for holding progress and the checklists.
+* Add a function to only view completed/incomplete tasks (I am thinking that I will do that with Vue).
+* Function to add your own games to the website.
 * Create a login function to seperate the progress for different users.
 
 # Might Add
 
-* Function to add your own games to the website.
-* A Laravel version of the website for added security for the login function. 
+* A Laravel version of the website. 
